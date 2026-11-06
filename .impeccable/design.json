@@ -1,0 +1,224 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-05T13:09:56.4409361-03:00",
+  "title": "Design System: Fluency",
+  "extensions": {
+    "colorMeta": {
+      "forest": {
+        "role": "primary",
+        "displayName": "Night Forest",
+        "canonical": "#18342a",
+        "tonalRamp": ["oklch(15% 0.030 160)", "oklch(25% 0.040 160)", "#18342a", "oklch(45% 0.050 160)", "oklch(58% 0.045 160)", "oklch(70% 0.035 160)", "oklch(83% 0.020 160)", "oklch(95% 0.008 160)"]
+      },
+      "forest-hover": {
+        "role": "primary",
+        "displayName": "Forest Hover",
+        "canonical": "#264c3e",
+        "tonalRamp": ["oklch(15% 0.030 160)", "oklch(25% 0.040 160)", "oklch(35% 0.050 160)", "#264c3e", "oklch(58% 0.045 160)", "oklch(70% 0.035 160)", "oklch(83% 0.020 160)", "oklch(95% 0.008 160)"]
+      },
+      "cream": {
+        "role": "neutral",
+        "displayName": "Quiet Cream",
+        "canonical": "#f5f7f1",
+        "tonalRamp": ["oklch(15% 0.010 120)", "oklch(28% 0.010 120)", "oklch(42% 0.010 120)", "oklch(56% 0.010 120)", "oklch(69% 0.010 120)", "oklch(82% 0.010 120)", "oklch(91% 0.010 120)", "#f5f7f1"]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Clean Paper",
+        "canonical": "#ffffff",
+        "tonalRamp": ["oklch(15% 0 0)", "oklch(28% 0 0)", "oklch(42% 0 0)", "oklch(56% 0 0)", "oklch(69% 0 0)", "oklch(82% 0 0)", "oklch(94% 0 0)", "#ffffff"]
+      },
+      "sage-wash": {
+        "role": "neutral",
+        "displayName": "Sage Wash",
+        "canonical": "#e6f0e8",
+        "tonalRamp": ["oklch(15% 0.018 150)", "oklch(28% 0.020 150)", "oklch(42% 0.020 150)", "oklch(56% 0.018 150)", "oklch(69% 0.016 150)", "oklch(82% 0.014 150)", "#e6f0e8", "oklch(96% 0.008 150)"]
+      },
+      "mint-wash": {
+        "role": "secondary",
+        "displayName": "Mint Wash",
+        "canonical": "#e6f7ef",
+        "tonalRamp": ["oklch(15% 0.030 155)", "oklch(28% 0.035 155)", "oklch(42% 0.035 155)", "oklch(56% 0.030 155)", "oklch(69% 0.025 155)", "oklch(82% 0.020 155)", "#e6f7ef", "oklch(97% 0.008 155)"]
+      },
+      "muted-sage": {
+        "role": "neutral",
+        "displayName": "Muted Sage",
+        "canonical": "#e9eee7",
+        "tonalRamp": ["oklch(15% 0.012 145)", "oklch(28% 0.014 145)", "oklch(42% 0.014 145)", "oklch(56% 0.012 145)", "oklch(69% 0.012 145)", "oklch(82% 0.010 145)", "#e9eee7", "oklch(96% 0.006 145)"]
+      },
+      "sage-text": {
+        "role": "neutral",
+        "displayName": "Sage Text",
+        "canonical": "#607268",
+        "tonalRamp": ["oklch(15% 0.020 155)", "oklch(28% 0.025 155)", "oklch(42% 0.025 155)", "#607268", "oklch(60% 0.022 155)", "oklch(72% 0.018 155)", "oklch(84% 0.012 155)", "oklch(95% 0.006 155)"]
+      },
+      "growth-green": {
+        "role": "secondary",
+        "displayName": "Growth Green",
+        "canonical": "#27805b",
+        "tonalRamp": ["oklch(15% 0.050 155)", "oklch(27% 0.070 155)", "oklch(39% 0.090 155)", "#27805b", "oklch(60% 0.095 155)", "oklch(72% 0.070 155)", "oklch(84% 0.040 155)", "oklch(95% 0.015 155)"]
+      },
+      "coral": {
+        "role": "primary",
+        "displayName": "Living Coral",
+        "canonical": "#ff6f4e",
+        "tonalRamp": ["oklch(15% 0.090 35)", "oklch(27% 0.140 35)", "oklch(39% 0.185 35)", "oklch(51% 0.210 35)", "#ff6f4e", "oklch(74% 0.170 35)", "oklch(86% 0.090 35)", "oklch(95% 0.035 35)"]
+      },
+      "peach": {
+        "role": "tertiary",
+        "displayName": "Coach Peach",
+        "canonical": "#ffb69f",
+        "tonalRamp": ["oklch(15% 0.055 40)", "oklch(27% 0.080 40)", "oklch(39% 0.105 40)", "oklch(51% 0.120 40)", "oklch(64% 0.120 40)", "#ffb69f", "oklch(88% 0.065 40)", "oklch(96% 0.025 40)"]
+      },
+      "border-sage": {
+        "role": "neutral",
+        "displayName": "Sage Border",
+        "canonical": "#dce5dc",
+        "tonalRamp": ["oklch(15% 0.016 145)", "oklch(28% 0.018 145)", "oklch(42% 0.018 145)", "oklch(56% 0.016 145)", "oklch(69% 0.014 145)", "oklch(82% 0.012 145)", "#dce5dc", "oklch(96% 0.006 145)"]
+      },
+      "forest-soft": {
+        "role": "neutral",
+        "displayName": "Soft Forest",
+        "canonical": "#c9d8cf",
+        "tonalRamp": ["oklch(15% 0.020 155)", "oklch(28% 0.025 155)", "oklch(42% 0.025 155)", "oklch(56% 0.023 155)", "oklch(69% 0.020 155)", "#c9d8cf", "oklch(88% 0.012 155)", "oklch(96% 0.006 155)"]
+      },
+      "error-wash": {
+        "role": "tertiary",
+        "displayName": "Warm Error Wash",
+        "canonical": "#fff0e9",
+        "tonalRamp": ["oklch(15% 0.035 35)", "oklch(28% 0.050 35)", "oklch(42% 0.055 35)", "oklch(56% 0.050 35)", "oklch(69% 0.042 35)", "oklch(82% 0.032 35)", "oklch(91% 0.020 35)", "#fff0e9"]
+      },
+      "error-text": {
+        "role": "tertiary",
+        "displayName": "Warm Error Text",
+        "canonical": "#7d351f",
+        "tonalRamp": ["oklch(15% 0.065 38)", "oklch(27% 0.095 38)", "#7d351f", "oklch(49% 0.130 38)", "oklch(61% 0.115 38)", "oklch(73% 0.085 38)", "oklch(85% 0.050 38)", "oklch(95% 0.018 38)"]
+      }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "Short onboarding, practice, and completion declarations." },
+      "headline": { "displayName": "Headline", "purpose": "Focused onboarding questions and step titles." },
+      "title": { "displayName": "Title", "purpose": "Side-rail and section headings." },
+      "body": { "displayName": "Body", "purpose": "Instructions, conversation support, and descriptions." },
+      "label": { "displayName": "Label", "purpose": "Controls, metadata, helper copy, and metrics." }
+    },
+    "shadows": [
+      { "name": "card-float", "value": "0 12px 32px rgb(31 53 43 / 8%)", "purpose": "Selection, transcript, and status cards." },
+      { "name": "composer-float", "value": "0 18px 48px rgb(31 53 43 / 14%)", "purpose": "Keeps the fixed composer legible over the conversation." },
+      { "name": "hero-canopy", "value": "0 28px 80px rgb(24 52 42 / 22%)", "purpose": "The daily practice hero only." },
+      { "name": "voice-glow", "value": "0 18px 40px rgb(255 111 78 / 28%)", "purpose": "The large microphone action and listening state." }
+    ],
+    "motion": [
+      { "name": "progress", "value": "width 500ms ease", "purpose": "Onboarding step progress." },
+      { "name": "session-progress", "value": "width 700ms ease", "purpose": "Three-minute conversation progress." },
+      { "name": "voice-ripple", "value": "1500ms cubic-bezier(0.16, 1, 0.3, 1) infinite", "purpose": "Signals active listening; disabled under prefers-reduced-motion." },
+      { "name": "topic-lift", "value": "transform 150ms ease", "purpose": "Moves a topic choice up 2px on hover." }
+    ],
+    "breakpoints": [
+      { "name": "sm", "value": "640px" },
+      { "name": "md", "value": "768px" },
+      { "name": "lg", "value": "1024px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Forest Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The main forward action on light setup surfaces.",
+      "html": "<button class=\"ds-btn-primary\">Preparar meu treino <span aria-hidden=\"true\">→</span></button>",
+      "css": ".ds-btn-primary { height: 48px; display: inline-flex; align-items: center; justify-content: center; gap: 8px; padding: 0 24px; border: 0; border-radius: 9999px; background: var(--primary, #18342a); color: var(--primary-foreground, #fff); font: 500 16px/1 'Geist', system-ui, sans-serif; cursor: pointer; transition: background 150ms ease, transform 150ms ease; } .ds-btn-primary:hover { background: #264c3e; } .ds-btn-primary:active { transform: translateY(1px); } .ds-btn-primary:focus-visible { outline: 3px solid rgb(255 111 78 / 35%); outline-offset: 3px; }"
+    },
+    {
+      "name": "Coral Completion Button",
+      "kind": "button",
+      "refersTo": "button-coral",
+      "description": "The committed next action on a dark completion surface.",
+      "html": "<button class=\"ds-btn-coral\">Nova conversa <span aria-hidden=\"true\">→</span></button>",
+      "css": ".ds-btn-coral { height: 48px; display: inline-flex; align-items: center; justify-content: center; gap: 8px; padding: 0 28px; border: 0; border-radius: 9999px; background: #ff6f4e; color: #fff; font: 500 16px/1 'Geist', system-ui, sans-serif; cursor: pointer; transition: background 150ms ease, transform 150ms ease; } .ds-btn-coral:hover { background: #f05d3d; } .ds-btn-coral:active { transform: translateY(1px); } .ds-btn-coral:focus-visible { outline: 4px solid rgb(255 111 78 / 30%); outline-offset: 3px; }"
+    },
+    {
+      "name": "Active Selection Card",
+      "kind": "card",
+      "refersTo": "selection-card-active",
+      "description": "The selected state for level and voice choices.",
+      "html": "<button class=\"ds-choice\" aria-pressed=\"true\"><span class=\"ds-choice-mark\">✓</span><span><strong>Já sustento uma conversa</strong><small>Falo sobre rotina, trabalho e planos.</small></span></button>",
+      "css": ".ds-choice { width: 100%; min-height: 112px; display: flex; align-items: flex-start; gap: 16px; padding: 20px; border: 0; border-radius: 16px; background: #18342a; color: #fff; text-align: left; font-family: 'Geist', system-ui, sans-serif; box-shadow: 0 12px 32px rgb(31 53 43 / 7%); cursor: pointer; transition: transform 150ms ease; } .ds-choice:hover { transform: translateY(-1px); } .ds-choice:focus-visible { outline: 3px solid rgb(255 111 78 / 35%); outline-offset: 3px; } .ds-choice-mark { width: 28px; height: 28px; flex: 0 0 28px; display: grid; place-items: center; border-radius: 9999px; background: #ffb69f; color: #18342a; } .ds-choice strong { display: block; font-size: 16px; font-weight: 600; } .ds-choice small { display: block; margin-top: 4px; color: #c9d8cf; font-size: 14px; line-height: 1.6; }"
+    },
+    {
+      "name": "Practice Topic Button",
+      "kind": "button",
+      "refersTo": "topic-button",
+      "description": "A translucent topic choice inside the forest practice hero.",
+      "html": "<button class=\"ds-topic\"><span class=\"ds-topic-icon\" aria-hidden=\"true\">☕</span>Meu dia</button>",
+      "css": ".ds-topic { min-height: 56px; display: flex; align-items: center; gap: 12px; padding: 0 16px; border: 0; border-radius: 16px; background: rgb(255 255 255 / 10%); color: #fff; text-align: left; font: 500 14px/1.2 'Geist', system-ui, sans-serif; cursor: pointer; transition: transform 150ms ease, background 150ms ease; } .ds-topic:hover { transform: translateY(-2px); background: rgb(255 255 255 / 16%); } .ds-topic:active { transform: translateY(0); } .ds-topic:focus-visible { outline: 3px solid rgb(255 182 159 / 45%); outline-offset: 3px; } .ds-topic-icon { width: 32px; height: 32px; display: grid; place-items: center; border-radius: 12px; background: #ffb69f; color: #18342a; }"
+    },
+    {
+      "name": "Voice Microphone",
+      "kind": "button",
+      "description": "The large onboarding microphone action and active-listening anchor.",
+      "html": "<button class=\"ds-mic\" aria-label=\"Começar teste de voz\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z M5 10v2a7 7 0 0 0 14 0v-2 M12 19v3 M8 22h8\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg></button>",
+      "css": ".ds-mic { width: 112px; height: 112px; display: grid; place-items: center; border: 0; border-radius: 9999px; background: #ff6f4e; color: #fff; box-shadow: 0 18px 40px rgb(255 111 78 / 28%); cursor: pointer; transition: transform 150ms ease, background 150ms ease; } .ds-mic svg { width: 40px; height: 40px; } .ds-mic:hover { transform: scale(1.03); background: #f05d3d; } .ds-mic:active { transform: scale(.99); } .ds-mic:focus-visible { outline: 4px solid rgb(255 111 78 / 30%); outline-offset: 4px; }"
+    },
+    {
+      "name": "Conversation Composer",
+      "kind": "input",
+      "refersTo": "composer",
+      "description": "A floating voice-and-text field for the live conversation.",
+      "html": "<label class=\"ds-composer\"><button class=\"ds-composer-mic\" aria-label=\"Começar a falar\">●</button><textarea rows=\"1\" placeholder=\"Fale em inglês ou digite…\"></textarea><button class=\"ds-composer-send\" aria-label=\"Enviar\">↑</button></label>",
+      "css": ".ds-composer { min-height: 56px; display: flex; align-items: flex-end; gap: 8px; padding: 8px 10px; border: 0; border-radius: 16px; background: #fff; color: #18342a; box-shadow: 0 18px 48px rgb(31 53 43 / 14%); outline: 1px solid #dce5dc; } .ds-composer:focus-within { outline: 3px solid rgb(255 111 78 / 28%); outline-offset: 2px; } .ds-composer textarea { min-height: 36px; flex: 1; resize: none; border: 0; outline: 0; background: transparent; color: inherit; font: 400 16px/1.5 'Geist', system-ui, sans-serif; } .ds-composer textarea::placeholder { color: #607268; } .ds-composer-mic, .ds-composer-send { width: 36px; height: 36px; flex: 0 0 36px; display: grid; place-items: center; border-radius: 9999px; cursor: pointer; } .ds-composer-mic { border: 1px solid #dce5dc; background: #fff; color: #18342a; } .ds-composer-send { border: 0; background: #18342a; color: #fff; } .ds-composer-mic:hover { background: #e9eee7; } .ds-composer-send:hover { background: #264c3e; } .ds-composer-mic:focus-visible, .ds-composer-send:focus-visible { outline: 3px solid rgb(255 111 78 / 35%); outline-offset: 2px; }"
+    },
+    {
+      "name": "Correction Card",
+      "kind": "card",
+      "refersTo": "correction-card",
+      "description": "A lightweight in-flow correction that preserves conversational momentum.",
+      "html": "<aside class=\"ds-correction\"><p>QUICK CORRECTION</p><div><del>I have 30 years</del><span aria-hidden=\"true\">→</span><strong>I'm 30 years old</strong></div></aside>",
+      "css": ".ds-correction { padding: 12px 16px; border-radius: 16px; background: #e6f7ef; color: #18342a; font-family: 'Geist', system-ui, sans-serif; } .ds-correction p { margin: 0; color: #27805b; font-size: 12px; font-weight: 500; letter-spacing: .12em; } .ds-correction div { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 8px; font-size: 14px; line-height: 1.5; } .ds-correction del { color: #6b7d73; text-decoration-color: rgb(255 111 78 / 70%); } .ds-correction div > span { color: #ff6f4e; } .ds-correction strong { font-weight: 600; }"
+    },
+    {
+      "name": "Conversation Header",
+      "kind": "nav",
+      "description": "A translucent coach bar with compact session actions and progress.",
+      "html": "<header class=\"ds-chat-header\"><span class=\"ds-avatar\">M</span><div class=\"ds-chat-copy\"><strong>Mia</strong><small>sua conversa de hoje</small><span class=\"ds-progress\"><i></i></span></div><button>Concluir</button></header>",
+      "css": ".ds-chat-header { min-height: 72px; display: flex; align-items: center; gap: 12px; padding: 10px 16px; background: rgb(245 247 241 / 94%); color: #18342a; border-radius: 16px; font-family: 'Geist', system-ui, sans-serif; backdrop-filter: blur(20px); } .ds-avatar { width: 40px; height: 40px; flex: 0 0 40px; display: grid; place-items: center; border-radius: 42% 58% 50% 50%; background: #ffb69f; font-weight: 600; } .ds-chat-copy { min-width: 0; flex: 1; display: grid; } .ds-chat-copy strong { font-size: 14px; } .ds-chat-copy small { color: #607268; font-size: 12px; } .ds-progress { height: 4px; overflow: hidden; margin-top: 8px; border-radius: 9999px; background: #dfe8df; } .ds-progress i { display: block; width: 62%; height: 100%; border-radius: inherit; background: #ff6f4e; } .ds-chat-header button { padding: 7px 12px; border: 1px solid #dce5dc; border-radius: 9999px; background: transparent; color: #18342a; font: 500 14px/1 'Geist', system-ui, sans-serif; cursor: pointer; } .ds-chat-header button:hover { background: #fff; } .ds-chat-header button:focus-visible { outline: 3px solid rgb(255 111 78 / 35%); outline-offset: 2px; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Conversation Grove",
+    "overview": "Fluency feels like stepping into a quiet, welcoming place where speaking can happen without ceremony. Deep forest anchors the experience with adult confidence; cream and paper keep it open and breathable; coral marks the moments where the learner acts, speaks, or advances. The result is warm and personal without becoming childish, classroom-like, or gamified.\n\nThe interface alternates between generous ritual surfaces and tightly focused conversation controls. Onboarding and the daily practice home use large editorial statements, organic illustration, and spacious cards. The live conversation narrows to a calm reading column with a persistent coach header and composer. The session summary returns to an immersive forest field so completion feels conclusive but not theatrical.",
+    "keyCharacteristics": [
+      "Deep forest foundations with rare, energetic coral actions.",
+      "Oversized, tightly tracked headlines paired with plain, readable body copy.",
+      "Soft paper cards, organic portrait geometry, and pill-shaped controls.",
+      "One clear action per moment, with voice and text always treated as peers.",
+      "Progress shown through short bars, tabular metrics, and honest local-state language."
+    ],
+    "rules": [
+      { "name": "The Coral Means Motion Rule", "body": "Coral belongs to speaking, progress, focus, or the next committed action; it is not a general decoration color.", "section": "colors" },
+      { "name": "The Forest Carries Weight Rule", "body": "Selection, hero emphasis, and completion use forest as a filled surface instead of adding heavier borders or louder type.", "section": "colors" },
+      { "name": "The Speakable Sentence Rule", "body": "Headings should sound natural when read aloud and stay compact enough to absorb in one breath.", "section": "typography" },
+      { "name": "The Scale Before Weight Rule", "body": "Establish hierarchy with size and spacing; the system uses regular, medium, and semibold weights only.", "section": "typography" },
+      { "name": "The One Ritual Per View Rule", "body": "Each surface centers one learner task—set up, choose a topic, speak, or review—without competing navigation.", "section": "layout" },
+      { "name": "The Soft Lift Rule", "body": "Shadows should be broad, low-contrast, and tinted toward forest or coral; never use hard black drop shadows.", "section": "elevation" },
+      { "name": "The Hero Owns the Deepest Shadow Rule", "body": "No ordinary card competes with the daily-practice surface for depth.", "section": "elevation" },
+      { "name": "The Organic Coach Rule", "body": "Express character through Mia's silhouette and warm internal shapes, not by making every card irregular.", "section": "shapes" }
+    ],
+    "dos": [
+      "Do keep the experience adult, warm, and practical through restrained color, direct copy, and generous breathing room.",
+      "Do use Coral to show voice, progress, focus, or the next committed action.",
+      "Do preserve a text path for every voice interaction and a clear voice-state label.",
+      "Do align conversation header, message stream, and composer to one narrow reading column.",
+      "Do use Mia's organic portrait as the recurring human anchor across setup, practice, conversation, and completion.",
+      "Do respect reduced-motion preferences by removing the listening ripple and nonessential shimmer."
+    ],
+    "donts": [
+      "Don't turn progress into points, badges, confetti, or a childish game layer.",
+      "Don't use Coral as a large background when Night Forest or Quiet Cream should carry the structure.",
+      "Don't box every metric or message; prefer dividers, spacing, and tonal hierarchy.",
+      "Don't invent pronunciation scoring or visual language that implies analysis beyond the transcript.",
+      "Don't introduce hard black shadows, sharp rectangular primary actions, or crowded persistent navigation.",
+      "Don't let decorative portraits reduce the available space for the primary action on small screens."
+    ]
+  }
+}
